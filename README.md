@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mertcakdogan" target="blank"><img src="https://img.shields.io/twitter/follow/mertcakdogan?logo=twitter&style=for-the-badge" alt="mertcakdogan" /></a> </p>
 
-- 🔭 I’m currently working on [14-Day-14-Project ](https://github.com/mertcakdogan/14-Day-14-Project)
+- 🔭 I’m currently working on [GP3-React](https://github.com/mertcakdogan/gpt3.github.io)
 
 - 💬 Ask me about **react, vue**
 
