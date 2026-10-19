@@ -1,33 +1,25 @@
-# Hello 👋, I'm Mert Can Akdogan
-### Frontend Developer
+# Hi, I'm Mert Can Akdoğan 👋
 
-Frontend Developer from Turkey
+**Web development · Python tools · AI agent experiments**
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/mertcakdogan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="akdogan.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+I'm a developer from Türkiye. I build web interfaces with React and Next.js, write practical Python tools, and explore how language models can work with tools and code.
 
-## Skills
+[LinkedIn](https://www.linkedin.com/in/mertcakdogan/) · [Explore my repositories](https://github.com/mertcakdogan?tab=repositories)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-</p>
+## What I'm working on
 
-## GitHub Stats
+- **AI agents:** learning through hands-on projects with tool calling and model APIs.
+- **Python tools:** small applications that simplify everyday tasks.
+- **Web interfaces:** React and Next.js projects, from landing pages to dashboards.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mertcakdogan&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
+## Technologies I work with
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcakdogan&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
+| Area | Technologies |
+| --- | --- |
+| Web | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| Python | Python, Tkinter, API integrations |
+| AI experiments | Tool calling, OpenRouter, OpenAI Python SDK |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertcakdogan&theme=merko" alt="GitHub Streak" />
+## Connect
 
-<img src="https://profile-counter.glitch.me/mertcakdogan/count.svg?" alt="visitors count" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mertcakdogan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
+Find me on [LinkedIn](https://www.linkedin.com/in/mertcakdogan/), or browse my [public projects](https://github.com/mertcakdogan?tab=repositories).
