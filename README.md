@@ -1,51 +1,33 @@
-# Hi, I'm Mert Can Akdoğan 👋
+# Hello 👋, I'm Mert Can Akdogan
+### Frontend Developer
 
-**Web development · Python tools · AI agent experiments**
+Frontend Developer from Turkey
 
-I'm a developer from Türkiye. I build web interfaces with React and Next.js, write practical Python tools, and explore how language models can work with tools and code.
+## Contact Me
+<p><a href="https://www.linkedin.com/in/mertcakdogan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="akdogan.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-[LinkedIn](https://www.linkedin.com/in/mertcakdogan/) · [Explore my repositories](https://github.com/mertcakdogan?tab=repositories)
+## Skills
 
-## What I'm working on
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+</p>
 
-- **AI agents:** learning through hands-on projects with tool calling and model APIs.
-- **Python tools:** small applications that simplify everyday tasks.
-- **Web interfaces:** React and Next.js projects, from landing pages to dashboards.
+## GitHub Stats
 
-## Selected projects
+<img src="https://github-readme-stats.vercel.app/api?username=mertcakdogan&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
 
-### [Boot.dev AI Agent](https://github.com/mertcakdogan/bootdev-ai-agent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcakdogan&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
 
-A Python learning project that connects a language model to tools for listing, reading, and writing files, and running Python code. Uses OpenRouter through the OpenAI Python SDK.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertcakdogan&theme=merko" alt="GitHub Streak" />
 
-`Python` `Tool calling` `OpenRouter`
+<img src="https://profile-counter.glitch.me/mertcakdogan/count.svg?" alt="visitors count" />
 
-### [YouTube Playlist Merger](https://github.com/mertcakdogan/Youtube-Playlist-Merger)
+## GitHub Activity Graph
 
-A Python utility for combining two YouTube playlists into a new playlist using the YouTube Data API.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mertcakdogan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-`Python` `YouTube Data API`
-
-### [Dinner Rotation Planner](https://github.com/mertcakdogan/automated_dinner_rotation_system)
-
-A desktop application for planning dinner duties among friends, with a Tkinter interface and Turkish / English language support.
-
-`Python` `Tkinter`
-
-### [Next.js Dashboard](https://github.com/mertcakdogan/nextjs-dashboard)
-
-A learning project based on the Next.js App Router course, exploring dashboard layouts, customer and invoice views, and database-backed interfaces.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL`
-
-## Technologies I work with
-
-| Area | Technologies |
-| --- | --- |
-| Web | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS |
-| Python | Python, Tkinter, API integrations |
-| AI experiments | Tool calling, OpenRouter, OpenAI Python SDK |
-
-## Connect
-
-Find me on [LinkedIn](https://www.linkedin.com/in/mertcakdogan/), or browse my [public projects](https://github.com/mertcakdogan?tab=repositories).
